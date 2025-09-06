@@ -1,1 +1,1 @@
-From spreadsheets to strategy:- data-driven insights in Excel
+Developed an Excel-based sales enhancement project by creating calculated columns, building Pivot Tables, and applying advanced Excel functions to clean, summarize, and visualize data for actionable insights and strategic decisions.
